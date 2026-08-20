@@ -35,10 +35,10 @@ preferences:
     enabled: true
 
 # Site Configuration
-title: "Your Site Title"
-heading: "Your Name"
-description: "A brief description of your site"
-url: "https://yoursite.com"
+title: "The Hungry Witch"
+heading: "Meditations on medievalism and modernity."
+description: "A non-academic hobbyist reading, researching, and writing about the middle ages in the context of contemporary culture."
+url: "https://hungrywitch.blog"
 baseurl: ""
 
 # Asset Configuration
